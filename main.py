@@ -11,3 +11,16 @@ class HelloWorld(Scene):
 
         # 3. Wait for 1 second before the animation ends
         self.wait(1)
+
+
+class SquareToCircle(Scene):
+    def construct(self):
+
+        square = Square(color=BLUE)
+        circle = Circle(color=GREEN)
+
+        self.play(Create(square))
+
+        self.play(Transform(square, circle))
+
+        self.wait(1)
