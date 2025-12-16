@@ -1,8 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:C:/Users/Jaydon Hodson/Documents/School/Undergradguate/Misc/Manim-Maths/media/videos/Chapter 1 Scenes/1080p60/partial_movie_files/Intagers/4260039051_834779977_223132457.mp4'
-file 'file:C:/Users/Jaydon Hodson/Documents/School/Undergradguate/Misc/Manim-Maths/media/videos/Chapter 1 Scenes/1080p60/partial_movie_files/Intagers/3275331699_1295674776_4174281108.mp4'
-file 'file:C:/Users/Jaydon Hodson/Documents/School/Undergradguate/Misc/Manim-Maths/media/videos/Chapter 1 Scenes/1080p60/partial_movie_files/Intagers/2614105735_673060289_1200454478.mp4'
-file 'file:C:/Users/Jaydon Hodson/Documents/School/Undergradguate/Misc/Manim-Maths/media/videos/Chapter 1 Scenes/1080p60/partial_movie_files/Intagers/875735634_568118769_1200454478.mp4'
-file 'file:C:/Users/Jaydon Hodson/Documents/School/Undergradguate/Misc/Manim-Maths/media/videos/Chapter 1 Scenes/1080p60/partial_movie_files/Intagers/1164221471_2801897695_1200454478.mp4'
-file 'file:C:/Users/Jaydon Hodson/Documents/School/Undergradguate/Misc/Manim-Maths/media/videos/Chapter 1 Scenes/1080p60/partial_movie_files/Intagers/454213322_973435200_1200454478.mp4'
-file 'file:C:/Users/Jaydon Hodson/Documents/School/Undergradguate/Misc/Manim-Maths/media/videos/Chapter 1 Scenes/1080p60/partial_movie_files/Intagers/2257240731_1436906429_1689955555.mp4'
